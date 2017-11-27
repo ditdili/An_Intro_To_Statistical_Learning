@@ -1,6 +1,6 @@
 ## An Introduction to Statistical Learning: with Application in R
 
-
+<IMG src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' height=20% width=20%> <P>
 
 This repository contains my take on __'An Introduction to Statistical Leanring(ISL)'__ by G. James et al. The book provides an introduction to statistical learning methods. The PDF of the book is available for free online on the books [website](http://www-bcf.usc.edu/~gareth/ISL/).
 
