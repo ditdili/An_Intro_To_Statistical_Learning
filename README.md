@@ -9,4 +9,4 @@ I was inspired by [JWarmenhoven](https://github.com/JWarmenhoven/ISLR-python)'s 
 I used __numpy, pandas, scikit-learn, statsmodels, matplotlib, seaborn__ libraries in these notebooks.
 
 * [Chapter 3 - Linear Regression](http://nbviewer.jupyter.org/github/ditdili/An_Intro_To_Statistical_Learning/blob/master/notebooks/Chapter-3-Linear_Regression.ipynb)
-    * [Chapter 3 - Lab](http://nbviewer.jupyter.org/github/ditdili/An_Intro_To_Statistical_Learning/blob/master/notebooks/Chapter-3-Linear_Regression_3-6_LAB.ipynb#int_terms)
+    * [Chapter 3 - Lab](http://nbviewer.jupyter.org/github/ditdili/An_Intro_To_Statistical_Learning/blob/master/notebooks/Chapter-3-Linear_Regression_3-6_LAB.ipynb)
