@@ -10,3 +10,6 @@ The github repo for the book ([Link](https://github.com/CamDavidsonPilon/Probabi
 * Publisher: Addison-Wesley Professional
 * Release Date: October 2015
 * Pages: 256
+
+### Notes:
+* [1 The Philosophy of Bayesian Inference](http://nbviewer.jupyter.org/github/ditdili/Statistics-Statistical_Learning/blob/master/BayesianMethodsforHackers/notebooks/Chapter-1-The_Philosophy_of_Bayesian_Inference-Notes.ipynb)
