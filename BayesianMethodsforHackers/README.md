@@ -13,3 +13,5 @@ The github repo for the book ([Link](https://github.com/CamDavidsonPilon/Probabi
 
 ### Notes:
 * [1 The Philosophy of Bayesian Inference](http://nbviewer.jupyter.org/github/ditdili/Statistics-Statistical_Learning/blob/master/BayesianMethodsforHackers/notebooks/Chapter-1-The_Philosophy_of_Bayesian_Inference-Notes.ipynb)
+
+* [2 A Little More on PyMC](http://nbviewer.jupyter.org/github/ditdili/Statistics-Statistical_Learning/blob/master/BayesianMethodsforHackers/notebooks/Chapter-2-A_Little_More_on_PyMC-Notes.ipynb)
